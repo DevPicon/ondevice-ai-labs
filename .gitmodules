@@ -1,3 +1,6 @@
 [submodule "miyabi-nano"]
 	path = miyabi-nano
 	url = git@github.com:devpicon/miyabi-nano.git
+[submodule "iki-nano"]
+	path = iki-nano
+	url = git@github.com:devpicon/iki-nano.git
